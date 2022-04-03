@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+body{
+  padding: 0;
+  margin: 0;
+  background-image: linear-gradient(180deg, #4691CC, #7958A5, #C23A86);
+}
